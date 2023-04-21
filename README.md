@@ -1,16 +1,21 @@
-### Hi there 👋
+## Salbyul
+<br>
+Hi there. I'm backend developer.
+<br>
+<br>
+<img src="https://img.shields.io/badge/kpast96@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<br>
+<br>
 
-<!--
-**salbyul/salbyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILL
+<div>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BaekJoon
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahowme)](https://solved.ac/ahowme)
